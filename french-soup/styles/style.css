@@ -22,7 +22,7 @@ body {
 .heading {
   font-size: 75px;
   color: white;
-  background-image: url(/apple-pie/images/apple-pie.jpg);
+  background-image: url(/french-soup/images/soup.jpg);
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,14 +42,14 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 50%;
 }
 
 .cookingPic {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 45%;
 }
 
 .hrShort {
